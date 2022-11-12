@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+    background-color:white;
+    
+  }
+  h1{
+    text-align: center;
+     font-size: 50px;
+  }
+  .cover{
+     background-color:#4C0033;
+    width:25%;
+    height:5px;
+    margin:100px auto;
+    padding:40px 80px 400px 80px; 
+    border-radius:35px;
+    color:white;
+    
+  /* font-family: 'Ubuntu', sans-serif; */
+    font-family: 'Roboto', sans-serif;
+    border:none;
+    
+  }
+  button{
+     text-decoration: none;
+    text-align:center;
+    padding: px px;
+     margin: auto;
+    border: none;
+    border-radius: 5px;
+    font-family: Barlow;
+     letter-spacing:1.5px;
+    font-size:16px;
+      background-color: #F5C6A5;
+    
+    color: #51557E;
+    
+  }
+  .inputcal[type="number"]{
+     border-top-right-radius:5px;
+    border-top-left-radius:5px;
+     border-bottom-right-radius:5px;
+    border-bottom-left-radius:5px;
+    border:none;
+    width:180px;
+    padding:10px
+  }
+  a{
+    text-decoration:none;
+      color:#51557E;
+    
+  }
+  
+  
